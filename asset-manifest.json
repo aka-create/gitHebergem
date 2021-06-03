@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gitHebergem/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/gitHebergem/static/js/main.3715f7ef.chunk.js",
+    "main.js.map": "/gitHebergem/static/js/main.3715f7ef.chunk.js.map",
+    "runtime-main.js": "/gitHebergem/static/js/runtime-main.a3322bef.js",
+    "runtime-main.js.map": "/gitHebergem/static/js/runtime-main.a3322bef.js.map",
+    "static/js/2.31b08f75.chunk.js": "/gitHebergem/static/js/2.31b08f75.chunk.js",
+    "static/js/2.31b08f75.chunk.js.map": "/gitHebergem/static/js/2.31b08f75.chunk.js.map",
+    "static/js/3.29ce184c.chunk.js": "/gitHebergem/static/js/3.29ce184c.chunk.js",
+    "static/js/3.29ce184c.chunk.js.map": "/gitHebergem/static/js/3.29ce184c.chunk.js.map",
+    "index.html": "/gitHebergem/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/gitHebergem/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.31b08f75.chunk.js.LICENSE.txt": "/gitHebergem/static/js/2.31b08f75.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/gitHebergem/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3322bef.js",
+    "static/js/2.31b08f75.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.3715f7ef.chunk.js"
+  ]
+}
